@@ -11,3 +11,5 @@ Primeiro projeto de uma Biblioteca javascript e node desenvolvida.
 - testar o sucesso e o erro atraves do comando de execução  para verificar no terminal
 
 Este projeto é uma excelente introdução a como diferentes partes de um aplicativo em Node.js podem trabalhar juntas para criar uma funcionalidade completa. Ele abrange conceitos como manipulação de arquivos, processamento de strings, interfaces de linha de comando, e tratamento de erros — todos componentes fundamentais para o desenvolvimento de software em Node.js.
+![img1](https://github.com/user-attachments/assets/889cf414-46aa-48db-b370-71664237279b)
+![img2](https://github.com/user-attachments/assets/7c654830-0f28-451c-bb97-076423f1e501)
