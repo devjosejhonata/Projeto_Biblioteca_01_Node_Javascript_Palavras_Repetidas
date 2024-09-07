@@ -1,0 +1,1 @@
+Essa pasta contém os arquivos de textos para testar a aplicação.
